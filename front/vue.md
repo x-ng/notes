@@ -358,5 +358,12 @@ select v-model 绑定的是 option 中的 :value 的值, option 的标签中可�
 </body>
 ```
 
-## 7 
+## 7 自定义指令
+
+## 8 过滤器
+
+## keep-alive
+
+
+vif vfor for的优先级逼if高
 
